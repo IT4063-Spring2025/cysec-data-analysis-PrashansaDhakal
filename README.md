@@ -5,7 +5,7 @@ This dataset contains network information features to determine anomaly and norm
 
 We will use to predict whether there is anomaly or not. This is a classification task.
 
-
+    
 ## Objectives
 - Practice the end-to-end machine learning process on classification problem
 
@@ -58,7 +58,7 @@ You'll also find some tips and links to documentations that will help you comple
 --------------------
 ## 📚 References and Citations
 **I used the following links, books, and other resources in my work:** (repeat as needed)
-- .
+- https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html 
   
 **I received help from the following people:** (repeat as needed)
 - .
