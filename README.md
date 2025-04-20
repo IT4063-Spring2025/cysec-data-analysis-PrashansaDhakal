@@ -39,21 +39,21 @@ You'll also find some tips and links to documentations that will help you comple
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+- I learned about Support Vector Machine
 
 **I struggled with:** (repeat as needed)
-- .
+- Remembering syntax for python code for newer libraries
 
 **I need the instructor to help me with:** (repeat as needed)
-- .
+- Figuring out I could have used requirements.txt instead of manually downloading the required libraries.
 
 **How long did it take you to complete this assignment? and reflect on that**
-[ ] hours.
+3 hours.
 
 **If I were to do this assignment again, I would:** (repeat as needed)
-- .
+- n/a
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get 20 out of 20.
 
 --------------------
 ## 📚 References and Citations
@@ -61,7 +61,7 @@ You'll also find some tips and links to documentations that will help you comple
 - https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html 
   
 **I received help from the following people:** (repeat as needed)
-- .
+- I used Copilot to uniderstand K fold cross validation
 
 ---
 ## Copyrights and License
