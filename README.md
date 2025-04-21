@@ -1,10 +1,11 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/GMtiwQXP)
 # Cyber Security Data Analysis
 ## Project Overview
 This dataset contains network information features to determine anomaly and normal behavior.
 
 We will use to predict whether there is anomaly or not. This is a classification task.
 
-
+    
 ## Objectives
 - Practice the end-to-end machine learning process on classification problem
 
@@ -38,29 +39,29 @@ You'll also find some tips and links to documentations that will help you comple
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+- I learned about Support Vector Machine
 
 **I struggled with:** (repeat as needed)
-- .
+- Remembering syntax for python code for newer libraries
 
 **I need the instructor to help me with:** (repeat as needed)
-- .
+- Figuring out I could have used requirements.txt instead of manually downloading the required libraries.
 
 **How long did it take you to complete this assignment? and reflect on that**
-[ ] hours.
+3 hours.
 
 **If I were to do this assignment again, I would:** (repeat as needed)
-- .
+- n/a
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get 20 out of 20.
 
 --------------------
 ## 📚 References and Citations
 **I used the following links, books, and other resources in my work:** (repeat as needed)
-- .
+- https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html 
   
 **I received help from the following people:** (repeat as needed)
-- .
+- I used Copilot to uniderstand K fold cross validation
 
 ---
 ## Copyrights and License
